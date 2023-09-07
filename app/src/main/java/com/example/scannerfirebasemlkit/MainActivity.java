@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
 
     // creating variables for our
     // image view, text view and two buttons
-    //testing
     private ImageView img;
     private TextView textview;
     private Button snapBtn;
